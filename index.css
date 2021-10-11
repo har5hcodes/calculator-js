@@ -22,11 +22,15 @@ button{
     margin-top: 10px;
 }
 
+button:hover{
+    background-color: azure;
+}
+
 #display-section{
     width: 300px;
     background-color: pink;
-    padding: 40px 10px;
-    font-size: 20px;
+    padding: 10px 10px;
+    font-size: 32px;
 }
 
 #keys-section{
@@ -41,4 +45,6 @@ button{
     padding: 10px;
     font-size: 20px;
     text-align: center;
-  }
+}
+
+  
